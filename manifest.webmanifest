@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "P1 · Psicología y hábitos",
+  "short_name": "P1 Hábitos",
+  "lang": "es",
+  "description": "Registro personal de momentos alimentarios, con historial y resumen de 14 días.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#22695c",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
